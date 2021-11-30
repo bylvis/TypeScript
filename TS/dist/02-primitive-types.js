@@ -1,4 +1,4 @@
-const a = 111;
+const a = 'sad';
 const b = 123; //Nan Infinity
 const c = true;
 const d = null;
